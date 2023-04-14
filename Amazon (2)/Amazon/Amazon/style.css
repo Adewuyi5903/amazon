@@ -1,0 +1,169 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#icon{
+    margin-top: 1.3rem;
+    /* margin-right: 29rem; */
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+}
+
+#location-icon{
+    display: inline;
+    margin: 0;
+    margin-left: -8rem;
+}
+
+
+.location-icon{
+    display: flex;
+    margin-left: -8rem;
+    /* margin-left: -15rem; */
+}
+
+.delivery{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:400;
+
+}
+
+.nigeria{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.country{
+    margin-right: 1rem;
+    color: white;
+    /* margin-left: -4rem; */
+}
+
+.dropdown{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: -16rem;
+    /* margin-top: 1rem; */
+    height: 38px;
+    /* width: 54px; */ */
+}
+
+.form-control{
+    margin-left: -15.3rem;
+    /* width: 490px;
+    height: 38px; */
+} 
+
+.form-control:hover{
+    border: solid;
+    border-color: goldenrod;
+    border-width: bold;
+}
+
+.search-icon{
+    /* height: 10rem */
+    margin-bottom: 0.6rem;
+    /* background-color: yellow; */
+    
+}
+
+.flag{
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 15px;
+}
+
+#button{
+    height: 38px;
+    margin-left: -18rem;
+}
+
+#all-container:active{
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 3px;
+
+}
+
+.dropdown-country{
+    margin-left: -15rem;
+    margin-bottom: 0.rem;
+    
+}
+
+.hello{
+    font-size: 12px;
+    margin-right: 32px;
+    margin-bottom: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.account{
+    font-size: 14px;
+    margin-left: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+.return{
+    font-size: 12px;
+    /* padding-top: 2rem; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-right: 2rem;
+}
+.order{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    /* background-color: white; */
+
+}
+.cart{
+    margin-top: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+#btn-toggle{
+    color: white;
+    margin-right: 28px;
+}
+
+#en-toggle{
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.easter-menu{
+    border-top-left-radius: 7px;
+}
+
+/* .easter:hover{
+    border: solid;
+    border-color: goldenrod;
+} */
+
+/* #en{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+} */
+
+
+    
+
+

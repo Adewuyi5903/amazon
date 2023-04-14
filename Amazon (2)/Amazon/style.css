@@ -1,0 +1,364 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#icon{
+    margin-top: 3.4rem;
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+}
+
+#location-icon{
+    display: inline;
+    margin: 0;
+    margin-left: -8rem;
+}
+
+.text:hover{
+    border: solid;
+    border-color: #fff;
+} 
+
+.location-icon{
+    display: flex;
+    margin-left: -8rem;
+}
+
+.delivery{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+    margin-left: 2.5rem;
+    margin-top: -3.5rem;
+}
+
+.nigeria{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: -2.5rem;
+    margin-left: -3.4rem;
+}
+
+.country{
+    display: flex;
+    margin-right: -10rem;
+    color: white;
+    margin-top: 1.5rem;
+}
+
+.dropdown{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: -16rem;
+    height: 38px;
+}
+
+.form-control{
+    margin-left: -15.3rem;
+} 
+
+.form-control:hover{
+    border: solid;
+    border-color: goldenrod;
+    border-width: bold;
+}
+
+.search-icon{
+    margin-bottom: 0.6rem;
+}
+
+.flag{
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 15px;
+}
+
+#button{
+    height: 38px;
+    margin-left: -18rem;
+}
+
+#all-container:active{
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 3px;
+
+}
+
+.dropdown-country{
+    margin-left: -15rem;
+    margin-bottom: 0.rem;
+}
+
+.dropdown-country:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+.hello{
+    font-size: 12px;
+    margin-right: 32px;
+    margin-bottom: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.account{
+    font-size: 14px;
+    margin-left: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+.return{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-right: 2rem;
+}
+
+.order{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+#return:hover{
+        border: solid;
+        border-color: #fff;
+    
+}
+
+.cart{
+    margin-top: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+#cart:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#btn-toggle{
+    color: white;
+    margin-right: 28px;
+}
+
+#btn-toggle:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#en-toggle{
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+#en-toggle:hover{
+    border: solid;
+    border-color: #fff;
+    
+}
+
+
+.easter-menu{
+    border-top-left-radius: 7px
+}
+
+.all{
+    font-size: 14px;
+    color: #fff;
+    font-family:inherit;
+    font-weight: 700;
+    padding-left: 1px;
+    white-space: nowrap;
+}
+
+#offcanvas{
+    margin-right: -3.5rem;
+}
+
+#body{
+    background-color: #fff; 
+}
+
+#close{
+    color: black;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-left: 2rem;
+    
+}
+.corner{
+    color: black;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 0.18rem;
+    margin-top: 9px;
+}
+
+.navbar-brand:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#staticBackdropLabel{
+    font-size: 19px;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: -14rem;
+    
+}
+
+#deal{
+    font-size: 14px;
+    font-family: inherit;
+    color: white;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: -0.5rem;
+}
+
+#deal:hover{
+    border: solid;
+    border-color: #fff;
+    
+}
+
+#customer{
+    font-size: 14px;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: -0.7rem;
+}
+
+#customer:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#registry{
+    font-size: 14px;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: -0.7rem;
+}
+
+#registry:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#gift{
+    font-size: 14px;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: -0.7rem;
+}
+
+#gift:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#sell{
+    font-size: 14px;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: -0.7rem;
+}
+
+#sell:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#shop{
+    font-size: 14px;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-left: 31rem;
+}
+
+#shop:hover{
+    border: solid;
+    border-color: #fff;
+}
+
+#next-icon{
+    
+    align-items: flex-start;
+    width: 34px;
+    height: 54px;
+    margin-top: 6rem;
+    margin-right: 1rem; 
+}
+
+#prv{
+    
+    height: 250px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+     margin-top: -13.5rem;  
+     margin-left: -5.4rem; 
+}
+
+#prv:active{
+    box-shadow:
+    0 0 0 1px rgb(10, 174, 122),
+    0 0 0 3px rgb(14, 14, 13);
+}
+
+#nxt{
+    
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 250px;
+    margin-top: -13.5rem;
+    margin-right: -11rem;
+    flex-direction: row;
+}
+
+#nxt:active{
+    display: flex;
+    box-shadow:
+    0 0 0 1px rgb(10, 174, 122),
+    0 0 0 3px rgb(14, 14, 13);
+}
+    
+
+        
+
+
+
+
+    
+
+
